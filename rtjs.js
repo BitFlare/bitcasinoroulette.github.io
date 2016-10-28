@@ -1710,13 +1710,13 @@ MoneyPot.placeCustomBet(bodyParams, {
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 1342,                             // <----------------------------- EDIT ME!
+  app_id: 2365,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'BitRoulette',
+  app_name: 'Flare Network',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LdI2CMTAAAAAGMWJ-lJ3k2PXrjlxgcjuzmeq5kq',  // <----- EDIT ME!
-  redirect_uri: 'http://bitcasinoroulette.github.io/',
+  recaptcha_sitekey: '6LelhQoUAAAAAP5g23Zhg9fdSXyte1HN6kF3QlKH',  // <----- EDIT ME!
+  redirect_uri: 'http://roulette.btcpot.cf/',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
